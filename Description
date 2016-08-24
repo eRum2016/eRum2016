@@ -1,0 +1,9 @@
+Package: eRum2016
+Title: european R users meeting
+Version: 0.0.2016
+Author: European R Community
+Maintainer: European R Community <erum@konf.ue.poznan.pl>
+Description: European R users meeting (eRum) is an international conference that aims at integrating users of the R language.
+    eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate.
+License: GPL-2
+URL: http://erum.ue.poznan.pl/
