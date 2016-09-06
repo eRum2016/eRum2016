@@ -1,0 +1,5 @@
+sudo: false
+os:
+  - linux
+language: r
+assert: false
